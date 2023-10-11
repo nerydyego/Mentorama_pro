@@ -1,0 +1,12 @@
+tarefa:
+
+crie um projeto em python:
+* crie uma api utlizando framework de sua preferência.
+* A api deverá receber uma quesição no método POST no seguinte formato:
+`{ 
+    "valor1": int, 
+    "valor2": int,
+    "operacao": string 
+    }`
+* A api deverá responder com a operação matemática (aporecao) realizada entre os as variaveis (valor1 e valor2) informados
+* crie os teste e a documentação para API.
