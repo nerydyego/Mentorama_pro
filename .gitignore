@@ -25,3 +25,6 @@ Modulo_6/lib*
 Modulo_7/lib*
 # Pastas de Materiais do curso
 Modulo_7/Material_aula*
+# Migrações
+Modulo_7/projeto/app/migrations*
+Modulo_7/projeto/app/__pycache__*
