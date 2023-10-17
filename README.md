@@ -3,9 +3,11 @@ Atividades do curso Python do iniciante ao Pro
 
 ## Neste repositorio irei centralizar totas atividades realizadas do curso.
 > Em Execução
->> Atividade Modulo 8 pro: pasta Modulo_8 -> Em execução.
+>> Atividade Modulo 9 pro: pasta Modulo_9 -> Em execução.
 
 > Entrega 
 >> Atividade Modulo 6 pro: pasta Modulo_6 -> Resolução da atividade.
 
 >> Atividade Modulo 7 pro: pasta Modulo_7 -> Resolução da atividade.
+
+>> Atividade Modulo 8 pro: pasta Modulo_8 -> Resolução da atividade.

@@ -24,6 +24,7 @@ TestResults.xml
 Modulo_6/lib*
 Modulo_7/Lib*
 Modulo_7/lib*
+Modulo_8/lib*
 # Migrações
 Modulo_7/filmes/main/migrations*
-MModulo_7/filmes/main/__pycache__*
+Modulo_7/filmes/main/__pycache__*
