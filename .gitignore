@@ -25,6 +25,11 @@ Modulo_6/lib*
 Modulo_7/Lib*
 Modulo_7/lib*
 Modulo_8/lib*
+Modulo_9/Lib*
 # Migrações
 Modulo_7/filmes/main/migrations*
 Modulo_7/filmes/main/__pycache__*
+
+# Mentorama
+Mentorama_pro.code-workspace
+.venv/
