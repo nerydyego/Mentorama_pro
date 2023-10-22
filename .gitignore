@@ -33,4 +33,4 @@ Modulo_7/filmes/main/__pycache__*
 
 # Mentorama
 Mentorama_pro.code-workspace
-.venv/
+pyvenv.cfg*
